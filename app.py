@@ -1,7 +1,4 @@
-# Student Pass / Fail Prediction using Decision Tree
-# Author: Siddhartha
-# Tech: Python, scikit-learn, Streamlit
-
+#1) predict whether the student will pass or fail using study hours
 import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
