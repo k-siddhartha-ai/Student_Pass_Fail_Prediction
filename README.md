@@ -60,11 +60,12 @@ Scikit-learn
 Matplotlib
 
 📁 Project Structure
+```bash
 Student_Pass_Fail_Prediction/
 ├── app.py              # Streamlit application
 ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
-
+```
 ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
