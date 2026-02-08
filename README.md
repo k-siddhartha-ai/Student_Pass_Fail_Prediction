@@ -55,6 +55,10 @@ Streamlit
 
 NumPy
 
+Scikit-learn
+
+Matplotlib
+
 📁 Project Structure
 Student_Pass_Fail_Prediction/
 ├── app.py              # Streamlit application
@@ -92,6 +96,3 @@ Python Developer | AI / Machine Learning Projects
 
 This project uses a small synthetic dataset for educational demonstration purposes and focuses on model interpretability rather than production-scale prediction.
 
-Scikit-learn
-
-Matplotlib
